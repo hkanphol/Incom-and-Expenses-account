@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Income and Expense account/1.0.0": {
+        "runtime": {
+          "Income and Expense account.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Income and Expense account/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

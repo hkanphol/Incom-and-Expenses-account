@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9b97757-2b40-4194-9732-e678f8fb7a3e": {
+      "ProjectGuid": "d9b97757-2b40-4194-9732-e678f8fb7a3e",
+      "DisplayName": "Income and Expense account",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

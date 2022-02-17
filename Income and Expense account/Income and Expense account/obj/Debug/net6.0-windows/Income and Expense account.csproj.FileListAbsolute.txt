@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\bin\Debug\net6.0-windows\Income and Expense account.exe
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\bin\Debug\net6.0-windows\Income and Expense account.deps.json
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\bin\Debug\net6.0-windows\Income and Expense account.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\bin\Debug\net6.0-windows\Income and Expense account.dll
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\bin\Debug\net6.0-windows\ref\Income and Expense account.dll
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\bin\Debug\net6.0-windows\Income and Expense account.pdb
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\obj\Debug\net6.0-windows\Income and Expense account.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\obj\Debug\net6.0-windows\Income_and_Expense_account.Form1.resources
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\obj\Debug\net6.0-windows\Income and Expense account.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\obj\Debug\net6.0-windows\Income and Expense account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\obj\Debug\net6.0-windows\Income and Expense account.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\obj\Debug\net6.0-windows\Income and Expense account.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\obj\Debug\net6.0-windows\Income and Expense account.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\obj\Debug\net6.0-windows\Income and Expense account.dll
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\obj\Debug\net6.0-windows\ref\Income and Expense account.dll
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\obj\Debug\net6.0-windows\Income and Expense account.pdb
+C:\Users\Admin\Documents\GitHub\Incom-and-Expenses-account\Income and Expense account\Income and Expense account\obj\Debug\net6.0-windows\Income and Expense account.genruntimeconfig.cache
